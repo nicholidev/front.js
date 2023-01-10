@@ -1,8 +1,8 @@
 ---
-title: Remix Packages
+title: Front.Js Packages
 ---
 
-# Remix Packages
+# Front.Js Packages
 
 <docs-info>The docs in this page have moved to their own pages</docs-info>
 

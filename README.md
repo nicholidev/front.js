@@ -1,1 +1,1 @@
-# Welcome to God.Js!
+# Welcome to Front.Js!
