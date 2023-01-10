@@ -1,15 +1,15 @@
 {
-  "name": "remix",
-  "version": "1.9.0",
-  "description": "A framework for building better websites",
-  "homepage": "https://remix.run",
+  "name": "front.js",
+  "version": "1.0.0",
+  "description": "A Modern React Framework for building the fastest web",
+  "homepage": "https://front.js",
   "bugs": {
-    "url": "https://github.com/remix-run/remix/issues"
+    "url": "https://github.com/nicholidev/front.js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/remix-run/remix",
-    "directory": "packages/remix"
+    "url": "https://github.com/nicholidev/front.js/",
+    "directory": "packages/front"
   },
   "license": "MIT",
   "sideEffects": false,
